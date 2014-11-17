@@ -1,0 +1,15 @@
+[27-Aug-2014 10:01:25 UTC] PHP Warning:  reset() expects parameter 1 to be array, boolean given in /home/tungseoc/public_html/ngoc247.com/wp-content/themes/soapbox/single-portfolio.php on line 17
+[27-Aug-2014 10:01:25 UTC] PHP Warning:  current() expects parameter 1 to be array, boolean given in /home/tungseoc/public_html/ngoc247.com/wp-content/themes/soapbox/single-portfolio.php on line 18
+[27-Aug-2014 10:01:25 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/tungseoc/public_html/ngoc247.com/wp-content/themes/soapbox/single-portfolio.php on line 26
+[27-Aug-2014 10:03:38 UTC] PHP Warning:  reset() expects parameter 1 to be array, boolean given in /home/tungseoc/public_html/ngoc247.com/wp-content/themes/soapbox/single-portfolio.php on line 17
+[27-Aug-2014 10:03:38 UTC] PHP Warning:  current() expects parameter 1 to be array, boolean given in /home/tungseoc/public_html/ngoc247.com/wp-content/themes/soapbox/single-portfolio.php on line 18
+[27-Aug-2014 10:03:38 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/tungseoc/public_html/ngoc247.com/wp-content/themes/soapbox/single-portfolio.php on line 26
+[27-Aug-2014 10:03:42 UTC] PHP Warning:  reset() expects parameter 1 to be array, boolean given in /home/tungseoc/public_html/ngoc247.com/wp-content/themes/soapbox/single-portfolio.php on line 17
+[27-Aug-2014 10:03:42 UTC] PHP Warning:  current() expects parameter 1 to be array, boolean given in /home/tungseoc/public_html/ngoc247.com/wp-content/themes/soapbox/single-portfolio.php on line 18
+[27-Aug-2014 10:03:42 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/tungseoc/public_html/ngoc247.com/wp-content/themes/soapbox/single-portfolio.php on line 26
+[27-Aug-2014 10:03:55 UTC] PHP Warning:  reset() expects parameter 1 to be array, boolean given in /home/tungseoc/public_html/ngoc247.com/wp-content/themes/soapbox/single-portfolio.php on line 17
+[27-Aug-2014 10:03:55 UTC] PHP Warning:  current() expects parameter 1 to be array, boolean given in /home/tungseoc/public_html/ngoc247.com/wp-content/themes/soapbox/single-portfolio.php on line 18
+[27-Aug-2014 10:03:55 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/tungseoc/public_html/ngoc247.com/wp-content/themes/soapbox/single-portfolio.php on line 26
+[27-Aug-2014 10:04:09 UTC] PHP Warning:  reset() expects parameter 1 to be array, boolean given in /home/tungseoc/public_html/ngoc247.com/wp-content/themes/soapbox/single-portfolio.php on line 17
+[27-Aug-2014 10:04:09 UTC] PHP Warning:  current() expects parameter 1 to be array, boolean given in /home/tungseoc/public_html/ngoc247.com/wp-content/themes/soapbox/single-portfolio.php on line 18
+[27-Aug-2014 10:04:09 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/tungseoc/public_html/ngoc247.com/wp-content/themes/soapbox/single-portfolio.php on line 26
